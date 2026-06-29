@@ -1,20 +1,27 @@
-This is still a work in progress, but it's reached a solid point where I'm comfortable sharing it with the community.
+# Horse Breeding Pack
 
-The pack includes:
+This project is still a work in progress, but it has reached a solid point where I'm comfortable sharing it with the community.
 
-bcc-horsebreeding
-bcc-stables
-coal_stables_vorp
+## Included Resources
 
-All 3 resources are required for the system to work properly.
+* `bcc-horsebreeding`
+* `bcc-stables`
+* `coal_stables_vorp`
 
-bcc-horsebreeding works similar to BCC Ranch. Use /horsebreeding to open your portable breeding ranch. Players can purchase and register a mare and stallion, breed them, and manage pregnancies. - buy mare and stud at bcc stables 
+All three resources are required for the system to work properly.
 
-When a mare foals, the foal receives a randomly generated coat based on the parents. Thanks to Coal Stables, these are custom coat colors rather than standard horse coats.
+`bcc-horsebreeding` works similarly to BCC Ranch. Use `/horsebreeding` to open your portable breeding ranch. Players can purchase and register a mare and stallion through **BCC Stables**, breed them, manage pregnancies, and raise their horses from birth to adulthood.
 
-You can spawn your foals, complete foal chores, and raise them through their growth stages. Once a foal reaches adulthood, it can be imported into BCC Stables where you can add tack, rename the horse, or sell it just like any other stable horse.
+When a mare foals, the foal receives a randomly generated coat based on both parents. Thanks to **Coal Stables**, these are custom coat colors rather than the standard RedM horse coats.
 
-You can customize however you like - also note what changes you made in bcc stables you will need to add into this one. Like what foods the horse eats. 
+Foals are born as either mares or studs with the correct in-game appearance. As they grow, they progress naturally through multiple growth stages before reaching adulthood.
+
+You can spawn your foals, complete foal chores, and watch them grow over time. Once a foal reaches adulthood, it can be imported directly into **BCC Stables**, where it functions like any other stable horse. You can rename it, equip tack, manage it through the stable, or sell it whenever you choose.
+
+This release also includes compatibility updates for the latest version of **BCC Stables**, allowing the breeding system to integrate with the current stable system while preserving its original functionality.
+
+Feel free to customize the resources however you like. If you're modifying **BCC Stables**, remember to carry over any compatibility changes included in this release, such as the breeding database fields, custom coat support, horse compatibility updates, and any horse feed or food configuration changes you make.
+
 
 
 <img width="1280" height="720" alt="IMG_20260607_190743_833" src="https://github.com/user-attachments/assets/2423ace2-6119-4b71-880b-9e453e0a2c18" />
